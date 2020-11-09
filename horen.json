@@ -931,6 +931,44 @@
 				"6.5.2.1" : "Enclitic adpositions do not cause lenition in the noun they are attached to. So, **mì hilvan** *in a river*, but **kilvanmì**. The combination **hilvanmì** can only mean *in rivers*. Enclitic adpositions also do not cause lenition on a following word, so **fo kilvanmì kllkxem** *they stand in a river*, not **fo kilvanmì \\*hllkxem**. However, whatever word immediately follows a non-enclitic adposition will be lenited. It doesn't have to be the noun, **mì hivea trr** *on the seventh day* (not \\***mì kivea srr**).",
 				"6.5.2.2" : "Since lenition alone is also used as the short plural (**3.1.3.1**), there is a chance for number uncertainty depending on the conversational context. To be clear about number, use the full plural prefix **ay+**; the lenited form without **ay+** should be interpreted as singular."
 			}
+		},
+		"6.6" : {
+			"header" : "Adverbs",
+			"info" : "",
+			"6.6.1" : {
+				"header" : "Degree and Quantity",
+				"info" : "Adverbs of degree and quantity very often follow the element they modify, **'Rrtamì tsranten nìtxan awngaru nìwotx** *on Earth it matters very much to us all*.",
+				"6.6.1.1" : "With predicate adjectives a very common pattern is ADJ **lu** ADV, **ngeyä lì'fya leNa'vi txantsan lu nìngay** *your Na'vi is truly excellent*."
+			},
+			"6.6.2" : {
+				"header" : "With Gerunds",
+				"info" : "The gerund retains enough of its verbal nature that it, too, may take an adverb, **Koren a'awve tìruseyä 'awsiteng** *the first rule of living together*."
+			},
+			"6.6.3" : {
+				"header" : "Correlative Comparisons",
+				"info" : "The verbs **'ul** *increase* and **nän** *decrease* are used idiomatically as correlative adverbs, **'ul... 'ul** *the more... the more* and **nän... nän...** *the less... the less*."
+			},
+			"6.6.4" : {
+				"header" : "Fìtxan and Nìftxan",
+				"info" : "Both adverbs **fìtxan** and **nìftxan** are used with the conjunction **kuma** (**6.18.6**) for result clauses,\n\n**Lu poe sevin nìftxan (or fìtxan) kuma yawne slolu oer.**\n*She was so beautiful that I fell in love with her.*\n\nIn these constructions, the **akum/kuma** must be contiguous with the **fìtxan/nìftxan**."
+			},
+			"6.6.5" : {
+				"header" : "Keng",
+				"info" : "The adverb **keng**, *even*, is used to prop up unexpected information, **yom teylut keng oel** *even I eat teylu*."
+			},
+			"6.6.6" : {
+				"header" : "Li",
+				"info" : "The primary meaning of **li** is *already*, **tìkangkem li hasey lu** *the work is already finished*.",
+				"6.6.6.1" : "The negative, **ke li**, means \"not yet\" and uses pleonastic negation (**6.16.2**), **fo ke li ke polähem** *they have not yet arrived*.",
+				"6.6.6.2" : "With imperatives **li** indicates a strong urgency, **Ngal mi fìtsengit terok srak? Li kä!** *You're still here? Get going!* With **ko** (**6.22.1**), **li ko** (accented on **li**) it means \"well, get to it, then\" or \"let's get on it\".",
+				"6.6.6.3" : "In answers it conveys a somewhat hesitant \"yes,\" much like English \"sort of,\"\n\nA: **Nga mllte srak?** *Do you agree?*\nB: **Li, slä...** *Well, yes, I guess so, but...*\n\nThe negative of this, **ke li**, means something like \"not really.\"",
+				"6.6.6.4" : "When paired with the adposition **sre** they mean \"by\" in the temporal sense of \"before or up to but not after,\" **kem si li trraysre** *do it by tomorrow*. If **sre** comes before the noun, it combines with **li** into **__li__sre**, which like **sre** will cause lenition, **kem si lisrey srray** *do it by tomorrow*."
+			},
+			"6.6.7" : {
+				"header" : "Nìwotx",
+				"info" : "The adverb **nìwotx** *all (of), in toto, completely* is frequently used with plural nouns and pronouns to give a collective sense, **ayeylanur oeyä sì eylanur lì'fyayä leNa'vi nìwotx** *to all my friends and friends of the Na'vi language*, **tìfyawìntxuri oeyä perey aynga nìwotx** *you are all waiting for my guidance*.",
+				"6.6.7.1" : "With dual number, the sense of **nìwotx** is *both*, **mefo nìwotx yolom** *they both ate*."
+			}
 		}
 	}
 }				

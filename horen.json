@@ -1389,5 +1389,95 @@
 				"6.23.1.2" : "For something that has already happened, use **fwa** or **tsawa** with a past perfective indicative,\n\nTsenu: **Spaw oe, fwa po kolä längu kxeyey.**\n*I believe it was a mistake for him to go/have gone.*\n\nKamun: **Kehe, kehe! Sweylu fwa pol kolä!**\n*No, no! He should have gone!*\n\nNote that this refers to a past event that did happen and was the right thing to do, not an unfulfilled past action (which is another use of \"should\" in English)."
 			}
 		}
+	},
+	"7" : {
+		"header" : "Pragmatics and Discourse",
+		"info" : "In previous chapters, I have discussed sounds, words and sentences in Na'vi. Much of that discussion took the form of rules. This chapter is devoted to language one step higher than even the sentence — conversation, narrative and the contexts in which language takes place, what linguists group together under the name pragmatics. Simple rules are harder to come by here, so the discussion necessarily takes a slightly different structure.",
+		"7.1" : {
+			"header" : "Constituent Order",
+			"info" : "",
+			"7.1.1" : {
+				"header" : "Free Word Order",
+				"info" : "Na'vi has been described as having free word order. This is a little misleading since that phrase means something quite specific to linguists. Rather, Na'vi has free constituent order. 1 Within constituents, word order may be quite constrained. You cannot stick part of one constituent into the middle of another. For example, in **ayoel tarmaron tsawla yerikit** *we were hunting a large hexapede*, I cannot break apart the direct object constituent **tsawla yerikit** and produce things like \\***tarmaron tsawla ayoel yerikit** or \\***ayoel tsawla tarmaron yerikit**.",
+				"footer" : "1  A constituent is a slightly bigger building block than the word, but smaller than a sentence. A constituent is a group of words that function as a single grammatical unit. For example, in the sentence, \"the big bad wolf ate Little Red Riding Hood's grandmother,\" the phrase \"the big bad wolf\" is one constituent acting as the subject, the verb \"ate\" stands on its own and \"Little Red Riding Hood's grandmother\" is the direct object constituent. Sometimes a constituent can be a single word (\"he ate her\" — each word a constituent) and sometimes they can be quite a lot more complex.",
+				"7.1.1.1" : "In complex constituents, it is possible for a genitive to be separated from its noun by a relative clause, **ngeyä teri faytele a aysänumeri** *your instructions about these matters*."
+			},
+			"7.1.2" : {
+				"header" : "SOV, SVO, VSO",
+				"info" : "Many human languages can conveniently be categorized based on their default word order for subject, verb and direct object, usually shortened to just S, V and O. English is mostly an SVO language, Japanese is SOV. Free word order languages are not easily categorized into this system, though some do have tendencies worth noting. Looking at Frommer'sNa'vi, and only counting sentences with all three constituents, we can say that the three main word orders are SVO, SOV and VSO, with a very slight preference for VSO. Other orders, such as OVS and OSV, are much rarer. 2",
+				"footer" : "2  This is based off two of the larger pieces of connected Na'vi text Frommer has produced, his first blog post and his message on the MaSempul.org web site."
+			},
+			"7.1.3" : {
+				"header" : "Word Order Effects",
+				"info" : "Changes in word order can sometimes motivate changes in grammar.",
+				"7.1.3.1" : {
+					"info" : "If a sentence is ordered such that a modal and its controlled, transitive verb are contiguous, and the subject and direct object are contiguous, the modal and verb combination may be reanalyzed as a single transitive verb. For example, **oe teylut new yivom** *I want to eat teylu* has the expected, correct case use, with the subject of the modal in the subjective case, the direct object in the patientive case (**6.8.3**). However, in a few word orders, the subject may be put in the agentive case. In decreasing order of acceptability:",
+					"table" : {
+						"row 1" : ["Oel teylut new yivom", "widely acceptable 3"],
+						"row 2" : ["Teylut oel new yivom", "about 50% acceptable"],
+						"row 3" : ["New yivom teylut oel", "about 30% acceptable"],
+						"row 4" : ["*New yivom oel teylut", "completely unacceptable"]
+					},
+					"footer" : "3  According to Frommer's blog, \"...in all but the most formal situations."
+				}
+			},
+			"7.1.4" : {
+				"header" : "Focus",
+				"info" : "Since free word order languages do not use word order for syntax, they are free to use it to indicate other things, such as style, emphasis and focus. The only thing Frommer has told us for certain about Na'vi word order is, \"the end of the sentence is where the 'punch' comes.\" We can take this to mean that if you wish to emphasize a constituent, put it at the end of the clause. Notice in particular how Frommer translated this sentence:\n\n**Fkxilet a tsawfa poe ioi säpalmi ngolop __Va'rul__.**\n*__Va'ru__ is the one who created the necklace she was wearing.*\n\nThe focused, salient part of the answer to a question is similarly moved to the end of the clause:\n\n**Spaw oel futa Mo'atìl tsole'a Neytirit.**\n*I believe Mo'at saw Neytiri.*\n\n**Kehe. Tsole'a Neytirit Eytukanìl.**\n*No. The one who saw Neytiri was Eytukan.*\n\nIn English such focus can also be handled by emphasizing a particular word with stress, *__Eytukan__ saw Neytiri*."
+			},
+			"7.1.5" : {
+				"header" : "The English Passive",
+				"info" : "Although generations of English teachers have convinced many people that the passive voice is weak and flimsy, it is in fact simply one tool English uses to organize information clearly for listeners. The passive lets us bring the patient of some action to prominence by moving it to the head of the sentence. If we say, \"the nun was run over by a car\" we're communicating to our listeners that the nun is the most salient part of the sentence, and that the exact vehicle is less a concern. 4 Na'vi does not have a passive voice, but Frommer has suggested the word order OSV as one way to communicate the same effect (but see also **fko**, **6.3.4.2**).",
+				"footer" : "4  In English, we can even omit the agent of a passive altogether, \"the nun was run over.\""
+			}
+		},
+		"7.2" : {
+			"header" : "Topic-Comment",
+			"info" : "The topic-comment construction is conceptually straightforward, the \"topic\" announces what the rest of the sentence relates to, and the comment makes some statement relating to that topic. While plenty of Human languages organize discourse heavily around topic-comment structure, English is not one of them. This can make it difficult to present decent translations of topic-comment structures that are both true to the meaning of the original but which also make clear the structure under discussion. In this section I'll often use prepositional phrases with \"as for\" and \"concerning\" for all examples, but this is a clunky work-around, used only for clarity.",
+			"7.2.1" : {
+				"header" : "Topical Case",
+				"info" : "In Na'vi only nouns, noun phrases and pronouns can be topics. These are marked with the topical case (**-ri, -ìri**). More complex topics can be created with nominalized clauses (**6.18.4**)."
+			},
+			"7.2.2" : {
+				"header" : "Topical Role",
+				"info" : "The topic can be especially confusing for those unfamiliar with it because almost any syntactic role in a sentence may be pulled out of the sentence to be the topic. One idiomatic use is marking inalienable possession (**6.4.6.3**). But you can use the topical where English would use a direct object:\n\n**Fayupxare layu aysngä'iyufpi, fte __lì'fyari awngeyä__ fo tsìyevun nìftue nìltsansì nivume.**\n*These messages will be for beginners so that they can learn __our language__ easily and well.*\n\nBut the relationship between the topic may not match a strict syntactic role, too:\n\n**Ma oeyä eylan, __faysänumviri__ rutxe fì'ut tslivam...**\n*My friends, __concerning these lessons__ please understand this:*\n\n**Ayngeyä sìpawmìri kop fmayi fìtseng tivìng sì'eyngit.**\n*__As for your questions__, (I) will also try to give answers (for them) here.*",
+				"7.2.2.1" : "A topic may introduce a complex sentence, coming before even a leading conjunction,\n\n**__Fori__ mawkrra fa renten ioi säpoli holum.**\n*After they put on their goggles, they left.*",
+				"7.2.2.2" : "Similarly, a topic may apply for multiple constituents,\n\n**__Poeri__ uniltìrantokxit tarmok a krr, lam stum nìayfo, slä lu 'a'awa tìketeng — natkenong, __tsyokxìri__ ke lu zekwä atsìng ki amrr.**\n*__As for her__, when __she__ inhabited an avatar, __she__ was almost like them, but there were a few differences — for example, __as for her hand__ there were not four fingers but five.*"
+			},
+			"7.2.3" : {
+				"header" : "Using the Topical",
+				"info" : "Each human language has its own rules and tendencies about when the topical should be used. At this stage it is a little difficult to set rules for this, but a few tendencies can be drawn from what we have seen so far. First, so far Frommer has not used topic=comment constructions nearly as often as it is used in Chinese or Japanese (both topic-prominent languages, though each in their own way). Second, Frommer does not use the topical to introduce new matters for discussion, rather topics refer to current matters, or matters which are readily inferable from the conversation.\nEnglish uses the definite article, *the*, to mark information that has already been introduced into discourse, as well as information that can be assumed or deduced from the conversation. For example, if I say, \"I wanted to see *Avatar*, but the line was too long,\" I can use the definite article with *line* not because we've been talking about lines, but because standing in line is something we're used to when seeing a popular film. In comments on a recent blog post 5 Frommer says,\n```But if the message is indefinite, the topical case doesn't work as well, since topics are usually definite. So 'upxareri ngaru pamrel soli trram can certainly mean I wrote you THE message yesterday. Can it also mean I wrote you A message yesterday? Since there are no articles per se in Na'vi and nouns can be either definite or indefinite, I guess it could. But something about it rubs me the wrong way.```\nIt seems best to avoid indefinite topicals for now."
+			}
+		},
+		"7.3" : {
+			"header" : "Register",
+			"info" : "",
+			"7.3.1" : {
+				"header" : "Formal Register",
+				"info" : "Na'vi has two main ways to mark ceremonial or formal speech: with special pronouns (**3.2.3**) and with the verb infix **<uy>** (**3.6.4**).",
+				"7.3.1.1" : "The formal pronouns may be used in close succession, **Sìfmetok emzola'u __ohel__. Ätxäle si tsnì livu __oheru__ Uniltaron** *I have passed the tests. I respectfully request the Dream Hunt.*",
+				"7.3.1.2" : "Like the tense and aspect markers, it is not necessary to repeat the infix **<uy>** once a formality context has been established.",
+				"7.3.1.3" : "Solemnity or sincerity of a statement may be shown by using both pronoun and verb formality marking, **faysulfätuä tìkangkem __oheru__ meuia __luyu__ nìngay** *the work of these experts is truly an honor for me*."
+			},
+			"7.3.2" : {
+				"header" : "Poetic Register",
+				"info" : "",
+				"7.3.2.1" : "In prose the topical will come first in its clause or immediately after a conjunction (**6.4.6.1**). In verse, it may move deeper into the clause structure, **__pxan__ livu txo nì'aw oe __ngari__ / tsakrr nga Na'viru yomtìyìng** *only if I am __worthy of you__ will you feed the people*.",
+				"7.3.2.2" : "In normal prose, when an adposition comes before the noun or noun phrase, any genitive must also come after the adposition, as in **fa oeyä tsyokx** or **fa txyokx oeyä** *with my hand*. In poetry, the genitive may also come before the adposition, **oeyä fa tsyokx**.",
+				"7.3.2.3" : "In day-to-day speech a modal verb must come before its controlled verb (**6.8.3.1**). In poetic or ceremonial language, the modal may follow."
+			},
+			"7.3.3" : {
+				"header" : "Colloquial Register",
+				"info" : "The colloquial register presents itself mostly in simplified grammar or abbreviated expression.",
+				"7.3.3.1" : "Verbs of cognition may introduce a subclause without any conjunction.\n\n*I believe it was a mistake for him to have gone.*\n**__Spängaw oel futa__ fwa po kolä lu kxeyey.**\nColloquial: **__Spaw oe__, fwa po kolä längu kxeyey.**",
+				"7.3.3.2" : "In casual conversation the reflexive perfective of **si**-construction verbs, **säpo__li__**, is often pronounced **spo__li__**."
+			},
+			"7.3.4" : {
+				"header" : "Clipped Register",
+				"info" : "In military settings certain features of grammar are modified or omitted.",
+				"7.3.4.1" : "In noun phrase utterances, participles may go with their noun without using the attributive affix **-a-** (**6.9.1**), **tìkan tawnatep** *target lost* (from the video game).",
+				"7.3.4.2" : "Some pronoun genitives lose the final **-ä**, see **3.2.2.6**. This may be used casually, in non-military situations, among friends or close acquaintances."
+			}
+		}
 	}
 }				
